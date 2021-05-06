@@ -3,11 +3,11 @@
   <title>GlodenSun</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://fightmore.github.io/GoldenSun/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://fightmore.github.io/GoldenSun/"/>
   <updated>2021-05-04T02:44:24.754Z</updated>
-  <id>http://example.com/</id>
+  <id>https://fightmore.github.io/GoldenSun/</id>
   
   <author>
     <name>zhiyu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/2021/05/06/%E6%8A%A5%E4%BB%B7%E5%8D%95/"/>
-    <id>http://example.com/2021/05/06/%E6%8A%A5%E4%BB%B7%E5%8D%95/</id>
+    <link href="https://fightmore.github.io/GoldenSun/2021/05/06/%E6%8A%A5%E4%BB%B7%E5%8D%95/"/>
+    <id>https://fightmore.github.io/GoldenSun/2021/05/06/%E6%8A%A5%E4%BB%B7%E5%8D%95/</id>
     <published>2021-05-06T09:32:23.419Z</published>
     <updated>2021-05-04T02:44:24.754Z</updated>
     
