@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fightmore.github.io/GoldenSun/2021/05/06/%E6%8A%A5%E4%BB%B7%E5%8D%95/</loc>
+    <loc>https://fightmore.github.io/GoldenSun/about/index.html</loc>
     
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fightmore.github.io/GoldenSun/tags/index.html</loc>
+    
+    <lastmod>2021-05-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fightmore.github.io/GoldenSun/2019/08/13/%E6%8A%A5%E4%BB%B7%E5%8D%95/</loc>
+    
+    <lastmod>2021-05-09</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://fightmore.github.io/GoldenSun</loc>
-    <lastmod>2021-05-06</lastmod>
+    <lastmod>2021-05-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
