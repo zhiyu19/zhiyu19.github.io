@@ -973,8 +973,10 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   color: #fff;
 }
 .footer .footer-main i {
-  margin-right: 10px;
-  margin-left: 5px;
+  margin-right: 15px;
+  margin-left: 10px;
+  font-size: 20px;
+/*10,5*/
 }
 .footer .footer-main .link i {
   cursor: pointer;
