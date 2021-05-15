@@ -973,13 +973,15 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   color: #fff;
 }
 .footer .footer-main i {
-  margin-right: 15px;
-  margin-left: 10px;
-  font-size: 40px;
+  margin-right: 10px;
+  margin-left: 5px;
 /*10,5*/
 }
 .footer .footer-main .link i {
   cursor: pointer;
+  font-size: 36px;
+  margin-right: 15px;
+  margin-left: 10px;
 }
 .footer .footer-main .footer-copyright a {
   text-decoration: underline;
