@@ -649,15 +649,15 @@ background-position: center center;">
       <a target="_blank" rel="noopener" href="https://www.baidu.com/">
         <i class="fa fa-edge" aria-hidden="true"></i>
       </a>
-      ||
+      
       <a href="mailto:sfo613@163.com">
         <i class="fa fa-envelope-o" aria-hidden="true"></i>
       </a>
-      ||
+      
       <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=88071294">
         <i class="fa fa-qq" aria-hidden="true"></i>
       </a>
-      ||
+     
       <a href="tel:17733326419" target="_blank">
         <i class="fa fa-phone" aria-hidden="true"></i>
       </a>
@@ -915,5 +915,20 @@ background-position: center center;">
     </script>
     
     <script src="/js/app.js"></script>
-  </body>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+</body>
 </html>
